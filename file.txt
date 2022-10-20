@@ -1,0 +1,14 @@
+// Input file examples
+
+12 + 78
+
+65.14 / 8
+
+9 - 100
+
+// Algorithm
+
+// 1. Read the input file
+// 2. Process specified arithmetic operation
+// 3. Print result to console
+// 4. Input file may be broken
